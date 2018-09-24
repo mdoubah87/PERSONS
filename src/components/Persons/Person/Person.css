@@ -1,0 +1,14 @@
+.person{
+    background-color: #eeeeee;
+    margin: auto;
+    width: 400px;
+    height: 120px;
+    padding-top: 9px;
+    margin-top: 10px;
+    box-shadow: 2px 2px 2px yellowgreen;
+  }
+  @media (min-width: 500px){
+    .person {
+      width: 450px;
+    }
+  }
